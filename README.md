@@ -1,2 +1,10 @@
 # GMP
-Projet tutoré de ma deuxième année de DUT Informatique
+## Projet tutoré de deuxième année de DUT Informatique
+
+<b>Date / durée :</b> 2020 / 1 an
+
+<b>Contexte :</b> En deuxième année de DUT Informatique, un projet tutoré est organisé pour les étudiants : Par groupe de 4 ou 5 étudiants, un sujet nous est attribué, avec un véritable client. Chaque groupe aura donc un an pour s'occuper de répondre au besoin client, en utilisant tout ce qui a été appris au cours des deux ans de la formation.
+
+<b>Description :</b> Dans mon cas, j'était dans un groupe de 5 personnes qui devait s'occuper du sujet confié par un professeur du département GMP (Génie Mécanique et Productique). Celui-ci faisait des exercices personnalisés pour ses étudiants, à partir d'un même modèle d'énoncé, mais des valeurs de départ différentes. Ainsi, l'application web qui découlerait de ce projet devait pouvoir gérer l'enregistrement de formules, de variables aléatoires et d'énoncés. Elle devait aussi pouvoir permettre aux étudiants de répondre aux différentes questions de son sujet, mais aussi au professeur de corriger ces réponses.
+
+<b>Contraintes : </b>
