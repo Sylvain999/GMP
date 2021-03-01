@@ -1,4 +1,4 @@
-# GMP
+# GMP Projet Tutoré
 ## Projet tutoré de deuxième année de DUT Informatique
 
 <b>Date / durée :</b> 2020 / 1 an
