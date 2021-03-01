@@ -8,10 +8,10 @@
 <b>Description :</b> Dans mon cas, j'était dans un groupe de 5 personnes qui devait s'occuper du sujet confié par un professeur du département GMP (Génie Mécanique et Productique). Celui-ci faisait des exercices personnalisés pour ses étudiants, à partir d'un même modèle d'énoncé, mais des valeurs de départ différentes. Ainsi, l'application web qui découlerait de ce projet devait pouvoir gérer l'enregistrement de formules, de variables aléatoires et d'énoncés. Elle devait aussi pouvoir permettre aux étudiants de répondre aux différentes questions de son sujet, mais aussi au professeur de corriger ces réponses.
 
 <b>Collaborateurs :</b> <br/>
-<a href="">Raphaël Gauthier</a> <br/>
-<a href="">Florian Toribio</a> <br/>
-<a href="">Léo Mercier</a> <br/>
-<a href="">Léana Renon</a> <br/>
+<a href="https://github.com/Duffscs">Raphaël Gauthier</a> <br/>
+<a href="https://github.com/sepios87">Florian Toribio</a> <br/>
+<a href="https://github.com/Sawangg">Léo Mercier</a> <br/>
+<a href="https://github.com/lrenon">Léana Renon</a> <br/>
 
 <b>Contraintes : </b>
 <ul>
@@ -20,5 +20,5 @@
   <li>L'application devait gérer toutes les fonctionnalités utilisés par le professeur</li>
 </ul>
 
-<b>Langages et outils utilisés</b>
+<b>Langages et outils utilisés : </b>
 ReactJs et NodeJs
