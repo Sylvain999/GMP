@@ -23,5 +23,5 @@
 <b>Langages et outils utilisés : </b>
 ReactJs et NodeJs
 
-
-<i>A noter : Pour éviter l'exploitation de failles dans l'application, le code source n'est pas disponible</i>
+<br/>
+<i>A noter : Pour éviter l'exploitation de failles dans l'application, le code source n'est pas disponible.</i>
